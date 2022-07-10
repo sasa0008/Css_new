@@ -1,0 +1,147 @@
+body{
+    
+    margin: 0px;
+    text-align: center;
+    
+    
+}
+h2{
+    padding: 10px;
+    color: #66BFBF;
+}
+h3{
+    padding: 10px;
+    color: #66BFBF;
+}
+#top{
+    
+    padding-top: 100px;
+    position: relative;
+    background-color: aquamarine;
+}
+#name{
+    font-family:'Sacramento',sans-serif ;
+    font-size: 5em;
+    margin: 0px;
+    margin-top: 50px;
+    color: #66BFBF;
+    line-height: 20px;
+}
+#work{
+    font-family: sans-serif;
+    font-size: 1.5em;
+    color: #66BFBF;
+    font-weight: normal;
+}
+#top_cld{
+    position: absolute;
+    right: 200px;
+    top: 50px;
+}
+.btm_cld{
+    position: absolute;
+    left: 200px;
+    bottom: 300px;
+}
+.satya_img{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+}
+#im{
+    height: 200px;
+    width: 500px;
+}
+.skill-row{
+    width: 50%;
+    margin: 50px auto 50px auto;
+    text-align: left;
+}
+.sk_img{
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+    float: left;
+    margin-right: 30px;
+}
+.sk_img1{
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+    float: right;
+    margin-top: 0px;
+    margin-left: 5px;
+    
+}
+
+/* #desc{
+    line-height: 2em;
+    
+} */
+.tcs{
+    width: 50%;
+    margin: auto;
+}
+
+
+.middle-container{
+    margin: 100px 0 100px 0;
+}
+
+
+p{
+    line-height: 2;
+}
+hr{
+    border: dotted rgb(189, 232, 244);
+    border-bottom: none;
+    width: 5%;
+    margin: 100px auto;
+    border-width: 7px;
+}
+.c_msg{
+    width: 40%;
+    margin: auto;
+}
+.btn {
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 60;
+    -moz-border-radius: 60;
+    border-radius: 60px;
+    font-family: Georgia;
+    color: #4a234a;
+    font-size: 14px;
+    padding: 5px 20px 10px 20px;
+    text-decoration: none;
+    line-height: 5em;
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    text-decoration: none;
+  }
+   .bottom-container{
+    background-color:#66BFBF;
+    padding: 50px 0 20px 0;
+    
+}  
+a{
+    color: aqua;
+    margin: 10px;
+    text-decoration: none;
+    
+}
+a:hover {
+    color: #EAF6F6;
+    
+  }
+.copy{
+    color: #EAF6F6;
+    font-size: .75rem;
+    padding: 20px 0;
+}
